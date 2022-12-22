@@ -1,4 +1,4 @@
-package com.shiva.designpatterns.singleton;
+package com.shiva.designpatterns.creational.singleton;
 
 import java.io.Serializable;
 

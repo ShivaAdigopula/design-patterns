@@ -1,4 +1,4 @@
-package com.shiva.designpatterns.singleton;
+package com.shiva.designpatterns.creational.singleton;
 
 
 import org.junit.jupiter.api.Assertions;
@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 
 import java.io.*;
 import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Modifier;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;
