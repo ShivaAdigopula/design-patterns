@@ -1,7 +1,7 @@
 package com.shiva.designpatterns.creational.factory;
 
 /*
- Factory hides implementation of object instantiation
+ Factory hides implementation of object creation
  */
 public class PizzaFactory {
 
